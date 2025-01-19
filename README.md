@@ -1,5 +1,8 @@
 # common.js
 
+> DEPRECATED
+> Use https://github.com/basementuniverse/utils instead
+
 A small library of useful functions
 
 ## Usage
